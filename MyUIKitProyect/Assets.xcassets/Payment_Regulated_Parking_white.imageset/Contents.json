@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Payment_Regulated_Parking_white.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

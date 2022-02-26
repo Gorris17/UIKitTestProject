@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Car wash_white.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

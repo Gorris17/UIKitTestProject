@@ -1,0 +1,6 @@
+framework module Pods_MyUIKitProyect {
+  umbrella header "Pods-MyUIKitProyect-umbrella.h"
+
+  export *
+  module * { export * }
+}
